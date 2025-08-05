@@ -39,7 +39,7 @@ The dataset comprises images of roads from **Gilgit-Baltistan**, which feature d
 
 ## 🛠️ Setup and Installation
 1. Clone this repository:
-   git clone https://github.com/Kainattkhan/Object-Detection.git
+   git clone https://github.com/Kainattkhan/Road-Turns-Detection.git
   
 ## 📊 Results
 - **Classification Accuracy**: 91% on both validation and test sets.
