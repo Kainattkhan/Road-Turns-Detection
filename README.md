@@ -1,6 +1,6 @@
 # Road Turns Detection and Classification Project
 
-Welcome to the **Road Turns Detection and Classification** project! 🚗💨 This repository contains the code and assets for a two-fold task: classifying road turns and detecting them in real-world images. The project is built using **YOLOv8** and achieves high accuracy in both tasks.
+Welcome to the **Road Turns Detection and Classification** project! 🚗 This repository contains the code and assets for a two-fold task: classifying road turns and detecting them in real-world images. The project is built using **YOLOv8** and achieves high accuracy in both tasks.
 
 ## 🗂️ Project Overview
 
